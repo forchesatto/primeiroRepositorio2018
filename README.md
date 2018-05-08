@@ -1,3 +1,7 @@
-# primeiroRepositorio2018
+<h3> Esse é meu primeiro repositório GIT </h3>
 
-<h1> Esse é meu primeiro repositório GIT </h1>
+<p>
+
+Estou aprendendo a utilizar o git.
+
+</p>
